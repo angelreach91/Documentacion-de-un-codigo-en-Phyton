@@ -1,4 +1,4 @@
-# Documentacion-de-un-codigo-de-Phyton en github
+# Documentacion-de-un-codigo-de-Phyton-en-github
 Jose Julian Cordoba Martinez
 
 Jose Maximiliano Hernandez Loeza
