@@ -1,7 +1,6 @@
-# Hola esto es una prueba
-
-# Hola esto lo estoy escribiendo desde mi PC
-numero1 = 5
+#Equipo 1 
+# Trabajó Angel Jesus Libreros Ponce
+numero1 = 5 #En est
 numero2 = 3
 
 suma = numero1 + numero2
